@@ -1,13 +1,34 @@
-<div class="pos-f-t">
-  <div class="collapse" id="navbarToggleExternalContent">
-    <div class="bg-dark p-4">
-      <h5 class="text-white h4">Collapsed content</h5>
-      <span class="text-muted">Toggleable via the navbar brand.</span>
-    </div>
-  </div>
-  <nav class="navbar navbar-dark bg-dark">
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-  </nav>
-</div>
+  <!-- box header -->
+  <header class="box-header">
+            <div class="box-logo">
+                <i class="fas fa-5x fa-futbol "></i>
+            </div>
+            <!-- box-nav -->
+            <a class="box-primary-nav-trigger" href="#0">
+                <span class="box-menu-text">Menu</span><span class="box-menu-icon"></span>
+            </a>
+            <!-- box-primary-nav-trigger -->
+        </header>
+        <!-- end box header -->
+<!-- nav -->
+<nav>
+  <ul class="box-primary-nav">
+    <li class="box-label">About me</li>
+
+    <li><a href="index.html">Intro</a> <i class="ion-ios-circle-filled color"></i></li>
+    <li><a href="about.html">About me</a></li>
+    <li><a href="services.html">services</a></li>
+    <li><a href="/Portafolio">Mis Fotos</a></li>
+    <li><a href="contact.html">contact me</a></li>
+
+
+
+    <li class="box-label">Follow me</li>
+
+    <li class="box-social"><a href="#0"><i class="ion-social-facebook"></i></a></li>
+    <li class="box-social"><a href="#0"><i class="ion-social-instagram-outline"></i></a></li>
+    <li class="box-social"><a href="#0"><i class="ion-social-twitter"></i></a></li>
+    <li class="box-social"><a href="#0"><i class="ion-social-dribbble"></i></a></li>
+  </ul>
+</nav>
+<!-- end nav -->
